@@ -72,7 +72,7 @@ Auteur
 Développé par Ngone Ndao, Ababacar Mbengue, Daouda Amsata Gueye, Mouhammad Sonko, Ibrahima Dieng.
 
 Capture d'écran
-Voici une capture d'écran de l'application :
+Voici une capture d'écran de l'application 
 ![Capture d'écran](assets/img)
 
  
